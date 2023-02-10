@@ -1,0 +1,6 @@
+sys
+PyQt5
+sweetviz
+pandas
+sklearn.model_selection
+lazypredict
